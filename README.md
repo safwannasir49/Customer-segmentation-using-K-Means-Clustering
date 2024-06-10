@@ -98,7 +98,21 @@ cd Customer-segmentation-using-K-Means-Clustering
 <h2 id="conclusion">Conclusion</h2>
 <p>This project demonstrates the application of K-Means clustering for customer segmentation, which can be a powerful tool for businesses to better understand their customer base. By identifying distinct groups of customers, businesses can tailor their marketing strategies to target specific segments more effectively. The results indicate that using annual income and spending score as features can provide meaningful insights into customer behavior. Future work can expand on these results by incorporating additional features and exploring other clustering techniques.</p>
 <br><br>
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+       <a href="mailto:safwannasir49@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="safwannasir49@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/SafwanNasir49" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safwannasir" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/safwan-nasir-955745219" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwa_nasir_linkedln" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/safwan_nasir_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safwan_nasir_" height="30" width="40" />
+    </a>
+</p>
 
 
 </body>
