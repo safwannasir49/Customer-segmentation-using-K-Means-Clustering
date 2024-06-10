@@ -74,11 +74,11 @@ cd Customer-segmentation-using-K-Means-Clustering
 <p>After running the K-Means clustering algorithm, the customers are divided into five distinct groups based on their annual income and spending score. The key results include:</p>
 <h3>Elbow Method Plot</h3>
 <p>This plot helps determine the optimal number of clusters. The "elbow" point indicates the best number of clusters, balancing compactness and simplicity.</p>
-<img src="results/elbow_method.png" alt="Elbow Method">
+<img src="elbow.png" alt="Elbow Method">
 
 <h3>Cluster Visualization</h3>
 <p>This scatter plot visualizes the customer segments, with each cluster represented by a different color and the centroids marked.</p>
-<img src="results/clusters.png" alt="Clusters">
+<img src="results.png" alt="Clusters">
 
 <h2 id="future-work">Future Work</h2>
 <p>Future enhancements to this project could include:</p>
