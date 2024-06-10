@@ -12,13 +12,16 @@
     <li><a href="#future-work">Future Work</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
 <p>Customer segmentation is the process of dividing customers into groups based on common characteristics so that businesses can market to each group effectively and appropriately. In this project, we use K-Means clustering to segment customers based on their annual income and spending score.</p>
 
 <h2 id="dataset">Dataset</h2>
-<p>The dataset used in this project is a hypothetical customer dataset with the following columns:</p>
+<p>The dataset used in this project is a hypothetical customer dataset available on Kaggle. You can download it from the following link:</p>
+<p><a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python" target="_blank">Customer Segmentation Dataset</a></p>
+<p>The dataset contains the following columns:</p>
 <ul>
     <li><code>CustomerID</code>: Unique ID assigned to the customer</li>
     <li><code>Gender</code>: Gender of the customer</li>
@@ -64,7 +67,7 @@
 <h3>Cloning the Repository</h3>
 <p>To get started with this project, clone the repository using the following command:</p>
 <pre><code>git clone https://github.com/safwannasir49/Customer-segmentation-using-K-Means-Clustering.git
-cd customer-segmentation-kmeans
+cd Customer-segmentation-using-K-Means-Clustering
 </code></pre>
 
 <h2 id="key-results">Key Results</h2>
@@ -91,6 +94,9 @@ cd customer-segmentation-kmeans
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>This project demonstrates the application of K-Means clustering for customer segmentation, which can be a powerful tool for businesses to better understand their customer base. By identifying distinct groups of customers, businesses can tailor their marketing strategies to target specific segments more effectively. The results indicate that using annual income and spending score as features can provide meaningful insights into customer behavior. Future work can expand on these results by incorporating additional features and exploring other clustering techniques.</p>
 
 </body>
 </html>
